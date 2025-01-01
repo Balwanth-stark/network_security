@@ -35,7 +35,7 @@ Before running the script, ensure that you have the following prerequisites inst
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/varun-1518/EasySecuritySetup.git
+git clone https://github.com/Balwanth-stark/EasySecuritySetup.git
 cd EasySecuritySetup
 ```
 
